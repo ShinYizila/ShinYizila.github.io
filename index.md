@@ -2,7 +2,8 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 <p align="center">
 ![Image of fast.ai logo](images/logo.png)
 ![Image of fast.ai logo](images/God.png)
-
+</p>
+</div>
   
 ## This is a title
 
