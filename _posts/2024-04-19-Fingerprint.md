@@ -16,7 +16,7 @@ Fingerprint recognition is a biometric authentication technology based on the un
 
  ![]( https://img.shields.io/badge/Fingerprint%20Matching-8A2BE2) Once fingerprint features are extracted, the system compares them with registered fingerprint templates stored in a database. The matching process usually involves algorithms to calculate the similarity between two fingerprint templates. If the similarity exceeds a certain threshold, the two are considered a match, thus verifying the user's identity.
 
- ![]( https://img.shields.io/badge/Authentication/Identification-8A2BE2)**<span style="color:red">:</span>** Finally, based on the matching result, the system performs the corresponding action. If the match is successful, the system authenticates the user's identity or identifies the user. Otherwise, the user is denied access or needs to undergo additional verification steps.
+ ![]( https://img.shields.io/badge/Authentication/Identification-8A2BE2) Finally, based on the matching result, the system performs the corresponding action. If the match is successful, the system authenticates the user's identity or identifies the user. Otherwise, the user is denied access or needs to undergo additional verification steps.
 <div>
 <p align="center">
   <img src="https://github.com/ShinYizila/ShinYizila.github.io/raw/master/imageDir/mainframe.bmp" width="300" height="200"/>
