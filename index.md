@@ -2,8 +2,8 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 
 
   ![Image of fast.ai logo](images/logo.png)
-  ![Image of fast.ai logo](images/God.png)
-  <img src="images/God.png" alt="images/God.png" width="100">
+ 
+  <img src="images/God.png" alt="images/God.png" width="234" heigh='300'>
 
 
   
